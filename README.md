@@ -30,8 +30,6 @@ To find out more about this project, check out the attached presentation below!
 [Write Ups](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Reports) | [Notebooks](https://github.com/MMBazel/Classifying-Sales-Calls/tree/master/Detailed%20Milestone%20Notebooks) 
 
 
-For more information about my Springboard work: 
-📝 All of the documentation, code, and notes can be found [here](https://github.com/MMBazel/springboard-program), as well as links to other resources I found helpful for successfully completing the program. 
 
 💬 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-18a636221/). 
 
