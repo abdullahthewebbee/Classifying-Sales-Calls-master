@@ -8,10 +8,10 @@
 
 👋 Hi!
 
-My name is Mikiko Bazeley 👩🏻‍💻 and this is my first capstone project: 
+My name is Muhammad Abdullah and this is my first capstone project: 
 💸 Predicting the Outcomes of Demo Calls for a SaaS Company. 📱
 
-From Oct 2018 to April 2019 I completed a number of projects as part of the Springboard Data Science Track. 🧠 
+From Oct 2020 to April 2021 I completed a number of projects as part of the Springboard Data Science Track. 🧠 
 
 For this project I implemented a gradient boosted tree 🌲 model (XGBoost) to classify qualification of sales demo calls in order to improve forecasting efforts. This was the first time machine learning (or data science) techniques had been used in the company on something other than the product. 
 
@@ -33,7 +33,7 @@ To find out more about this project, check out the attached presentation below!
 For more information about my Springboard work: 
 📝 All of the documentation, code, and notes can be found [here](https://github.com/MMBazel/springboard-program), as well as links to other resources I found helpful for successfully completing the program. 
 
-💬 For questions or comments, please feel free to reach out on [LinkedIn](https://www.linkedin.com/in/mikikobazeley/). 
+💬 For questions or comments, please feel free to reach out on [LinkedIn](www.linkedin.com/in/muhammad-abdullah-18a636221/). 
 
 ⚠️ If you find my repo useful, let me know OR ☕ consider buying me a coffee! https://www.buymeacoffee.com/mmbazel ☕.
 
